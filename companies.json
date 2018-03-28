@@ -1,0 +1,96 @@
+[
+	{
+		"name": "google",
+		"description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware.",
+		"website": "https://www.google.com",
+		"founders": [
+			{
+				"first_name": "Larry",
+				"last_name": "Page"
+			},
+			{
+				"first_name": "Sergey",
+				"last_name": "Brin"
+			}
+		],
+		"founded_date": "19980904",
+		"founded_location": "Menlo Park, CA",
+		"logo": "logo_google.png"
+	},
+	{
+		"name": "uber",
+		"description": "Uber Technologies Inc. is a peer-to-peer ridesharing, food delivery, and transportation network company headquartered in San Francisco, California, with operations in 633 cities worldwide.",
+		"website": "https://www.uber.com",
+		"founders": [
+			{
+				"first_name": "Travis",
+				"last_name": "Kalanick"
+			},
+			{
+				"first_name": "Garrett",
+				"last_name": "Camp"
+			}
+		],
+		"founded_date": "20090301",
+		"founded_location": "San Francisco, CA",
+		"logo": "logo_uber.png"
+	},
+	{
+		"name": "facebook",
+		"description": "Facebook is an American online social media and social networking service company based in Menlo Park, California.",
+		"website": "https://www.facebook.com/",
+		"founders": [
+			{
+				"first_name": "Mark",
+				"last_name": "Zuckerberg"
+			},
+			{
+				"first_name": "Dustin",
+				"last_name": "Moskovitz"
+			},
+			{
+				"first_name": "Eduardo",
+				"last_name": "Saverin"
+			},
+			{
+				"first_name": "Andrew",
+				"last_name": "McCollum"
+			},
+			{
+				"first_name": "Chris",
+				"last_name": "Hughes"
+			}
+		],
+		"founded_date": "20040201",
+		"founded_location": "Menlo Park, CA",
+		"logo": "logo_facebook.png"
+	},
+	{
+		"name": "amazon",
+		"description": "Amazon.com, Inc., doing business as Amazon, is an American electronic commerce and cloud computing company based in Seattle, Washington that was founded by Jeff Bezos on July 5, 1994.",
+		"website": "https://www.amazon.com/",
+		"founders": [
+			{
+				"first_name": "Jeff",
+				"last_name": "Bezos"
+			}
+		],
+		"founded_date": "19940705",
+		"founded_location": "Seattle, WA",
+		"logo": "logo_amazon.png"
+	},
+	{
+		"name": "linkedin",
+		"description": "LinkedIn is a business- and employment-oriented service that operates via websites and mobile apps. Founded on December 28, 2002, and launched on May 5, 2003, it is mainly used for professional networking.",
+		"website": "https://www.linkedin.com/",
+		"founders": [
+			{
+				"first_name": "Jeff",
+				"last_name": "Weiner"
+			}
+		],
+		"founded_date": "20020928",
+		"founded_location": "Mountain View, CA",
+		"logo": "logo_linkedin.png"
+	}
+]

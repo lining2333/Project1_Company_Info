@@ -1,9 +1,41 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<title>lixiaokeng</title>
+	
 </head>
 <body>
-hello world!
+	<h1>Sample Project</h1>
+	<div id="Search">
+		<!--The information for search.-->
+		<div id="Search_info">
+			<br>
+			<label class="Search_info_label" for="Company_Name_input1">Company Name:</label>
+			<input class="Search_info_input" type="text" id="Company_Name_input1">	
+			<span  class="Search_info_span" id="Company_Name_span"></span><br><br>	
+
+			<label class="Search_info_label" for="Founded_Year_input1">Founded Year:</label>
+			<input class="Search_info_input" type="text" id="Founded_Year_input1">
+			<span  class="Search_info_span" id="Founded_Year_span"></span><br><br>	
+
+			<label class="Search_info_label" for="Founded_Name_input1">Founded Name:</label>
+			<input class="Search_info_input" type="text" id="Founded_Name_input1">
+			<span  class="Search_info_span" id="Founded_Name_span"></span><br><br>	
+		</div><br>
+		<!--The buttons for search and clear. -->
+		<div id="Search_buttons">
+			<button class="button" id="Search_button">Search</button>
+			<button class="button" id="Clear_button">Clear</button>
+		</div>
+	</div><br>
+	<hr>
+	<div id="Companies_Div">
+		<!--Create a dynamic table.-->
+		<table id="Companies_Table"></table>
+	</div>
+	
+	<script type="text/javascript" src="js/main.js"></script>
 </body>
 </html>
